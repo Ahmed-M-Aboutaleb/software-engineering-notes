@@ -5,7 +5,6 @@ I will use this repository to document my software engineering topics learning p
 ## This repository includes:
 
 - OOP
-- UML Diagrams
 - SOLID Principles
 - Design Patterns
 - Architectural Styles
